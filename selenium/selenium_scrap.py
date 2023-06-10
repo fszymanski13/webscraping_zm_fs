@@ -44,7 +44,7 @@ for url in urls:
         links.append(link.get_attribute('href'))
     time.sleep(5)
 
-links = [link for link in links if link.contains('olx.pl')]
+links = [link for link in links if 'olx.pl' in link]
 if limit_links: 
     links = links[0:101]
 #creating a dataframe and exporting to csv
