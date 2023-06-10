@@ -18,3 +18,8 @@ How to run olx_scrapy
 
 voilà
 
+--------------------------------------------------------------
+How to run selenium_scrap and selenium_df
+1. set your cd to the selenium folder
+2. change the path to your webdriver
+3. run the code 
