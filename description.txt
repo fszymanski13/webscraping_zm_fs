@@ -1,0 +1,2 @@
+The purpose of our project was to perform an analysis of the housing market data, so we decided to go into olx.pl and scrape the links to the offers of the apartments that are available to buy there.
+We used Selenium, Scrapy and BeautifulSoup to obtain the data and perform our analysis.
