@@ -1,4 +1,4 @@
-#How to run olx_scrapy
+How to run olx_scrapy
 
 1. open cmd
 2. cd 'directory of the scraper' (the file where the scrapy.cfg is located) (in my case it is C:\Studia\Master\WebScraping\Project\olx_scrapy)
