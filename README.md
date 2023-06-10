@@ -1,3 +1,11 @@
+How to run olx_scraper_beautiful_soup
+1. set your cd to the soup folder
+2. run the code 
+
+voilà
+
+--------------------------------------------------------------
+
 How to run olx_scrapy
 
 1. open cmd
@@ -9,3 +17,4 @@ How to run olx_scrapy
 6. \>scrapy crawl olx_scrapy_details -O olx_details_scrapy.csv
 
 voilà
+
