@@ -2,7 +2,6 @@ How to run olx_scraper_beautiful_soup
 1. set your cd to the soup folder
 2. run the code 
 
-voilà
 
 --------------------------------------------------------------
 
@@ -16,7 +15,6 @@ How to run olx_scrapy
 5. \>scrapy crawl olx_scrapy_links -O olx_links_scrapy.csv
 6. \>scrapy crawl olx_scrapy_details -O olx_details_scrapy.csv
 
-voilà
 
 --------------------------------------------------------------
 How to run selenium_scrap and selenium_df
