@@ -25,10 +25,8 @@ The project contains three main components, each utilizing a different library o
 
 ## How to run olx_scraper_beautiful_soup
 1. set your cd to the soup folder
-2. run the code 
+2. run the code
 
-
---------------------------------------------------------------
 
 ## How to run olx_scrapy
 
@@ -41,7 +39,6 @@ The project contains three main components, each utilizing a different library o
 6. \>scrapy crawl olx_scrapy_details -O olx_details_scrapy.csv
 
 
---------------------------------------------------------------
 ## How to run selenium_scrap and selenium_df
 1. set your cd to the selenium folder
 2. change the path to your webdriver
